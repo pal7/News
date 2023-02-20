@@ -18,7 +18,14 @@ export default function SingleArticle() {
 
       {isLoading && <h1>Loading...</h1>}
       {error && <h1>Error...</h1>}
-      {data && <div>{JSON.stringify(data)}</div>}
+      {data && (
+        <div>
+          <h1>{data.title}</h1>
+          <p>{data.author}</p>
+          <h4>{data.description}</h4>
+          {/* <img src={data.urlToImage}></img> */}
+        </div>
+      )}
     </div>
   );
 }
