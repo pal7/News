@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "New Study Shows Benefits of Regular Exercise for Mental Health",
+      "description": "A recent study has found that regular exercise can have significant positive effects on mental health.",
+      "author": "Jane Smith",
+      "publishedAt": "2023-02-19T10:30:00Z",
+      "url": "https://www.example.com/news/mental-health-exercise-study",
+      "urlToImage": "https://www.example.com/news/mental-health-exercise-study/image.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vitae tellus et ipsum commodo vulputate in eget nunc. Sed at sapien commodo, mollis nunc a, malesuada elit. Nam ac commodo felis. Integer eget sagittis dolor. In ac ex at lorem sodales bibendum. Suspendisse sed hendrerit mauris. Sed euismod malesuada turpis non bibendum. Donec malesuada euismod ultrices."
+    },
+    {
+      "id": "2",
+      "title": "New Bill Proposes Higher Taxes on Sugary Drinks",
+      "description": "A new bill introduced in Congress would raise taxes on sugary drinks in an effort to combat obesity and related health problems.",
+      "author": "John Doe",
+      "publishedAt": "2023-02-18T14:15:00Z",
+      "url": "https://www.example.com/news/sugary-drinks-tax-bill",
+      "urlToImage": "https://www.example.com/news/sugary-drinks-tax-bill/image.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vitae tellus et ipsum commodo vulputate in eget nunc. Sed at sapien commodo, mollis nunc a, malesuada elit. Nam ac commodo felis. Integer eget sagittis dolor. In ac ex at lorem sodales bibendum. Suspendisse sed hendrerit mauris. Sed euismod malesuada turpis non bibendum. Donec malesuada euismod ultrices."
+    },
+    {
+      "id": "3",
+      "title": "Company Announces Plans for New Electric Car",
+      "description": "A leading car manufacturer has announced plans to release a new electric car later this year.",
+      "author": "Sarah Johnson",
+      "publishedAt": "2023-02-17T11:45:00Z",
+      "url": "https://www.example.com/news/new-electric-car",
+      "urlToImage": "https://www.example.com/news/new-electric-car/image.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vitae tellus et ipsum commodo vulputate in eget nunc. Sed at sapien commodo, mollis nunc a, malesuada elit. Nam ac commodo felis. Integer eget sagittis dolor. In ac ex at lorem sodales bibendum. Suspendisse sed hendrerit mauris. Sed euismod malesuada turpis non bibendum. Donec malesuada euismod ultrices."
+    }
+  ]
+}
